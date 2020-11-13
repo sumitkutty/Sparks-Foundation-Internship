@@ -1,5 +1,6 @@
 # Sparks-Foundation-Internship
 ### These projects are a part of the internship by The Sparks Foundation
+### The projects are a basic implementation of some machine learning algorithms.
 
 
 ## Project 1
